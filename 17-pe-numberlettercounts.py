@@ -1,3 +1,5 @@
+# COMPLETE
+
 def stringcount():
     """
     Takes a number as input. Count starts at 0 and ends at desired number. Numbers get converted to word equivalents and each letter of each word gets counted. 

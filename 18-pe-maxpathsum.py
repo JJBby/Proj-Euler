@@ -1,3 +1,5 @@
+# TODO!!!
+
 data = """75
 95 64
 17 47 82
@@ -13,15 +15,52 @@ data = """75
 91 71 52 38 17 14 91 43 58 50 27 29 48
 63 66 04 68 89 53 67 30 73 16 69 87 40 31
 04 62 98 27 23 09 70 98 73 93 38 53 60 04 23"""
-clean = [int(x) for x in data.split("\n")]
-new = []
 
-tri = [[]]
+# new = data.replace(" ", ",")
+# what = data.split("\n")
+# test = map(int, data.split())
+# final = [int(x) for x in new.split('\n')]
+# for n in data:
+#     print(n)
+#     if n == "\"":
+#         new += data.replace('\"', '')
+
+
+# # Split and create new list at \n as int
+# new_data = list(map(int, data.split()))
+
+# # Transform this data in a list of numbers
+# clean = [x for x in data.split("\n")]
+
+# tri = [[]]
+
+# print(new_data)
 
 
 
-for i in range(20):
-    new[i]= list(map(int, clean[0:20]))
-    del clean[0:20]
 
-print(data)
+
+
+# Get length of lists
+# Start one from the last, e.g. if 5 lists, start at list 4
+# Associate the current list to the list below it to add the 2 numbers below it. 
+# Modify current list to highest value
+# remove last list from the data once highest values are saved
+desired_data = [
+    [75], 
+    [95, 64], 
+    [17, 47, 82], 
+    [18, 35, 87, 10]
+]
+
+for l in range(len(desired_data)):
+    for num in range(len(desired_data[l])):
+
+    center = desired_data[len(desired_data) - 1][l]
+    left = desired_data[len(desired_data)][l]
+    right = desired_data[len(desired_data)][l+1]
+
+        if center + left >= center + right:
+            center = center + left
+        else:
+            center = center + right

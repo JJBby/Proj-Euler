@@ -1,5 +1,5 @@
+# COMPLETE
 from functools import reduce 
-
 dirty ="""
 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
@@ -60,9 +60,3 @@ for y in range(17):
         
         
 print (largest_mult)
-
-
-# down new[1-4] at [i]
-# f-up new[4] at [i], new[3] at [i+1], new[2] at [i+2], new[1] at [i+3]
-# f-down new[4] at [i], new[5] at [i+1], new[6] at [i+2], new[7] at [i+3]
-# out of bounds error.
