@@ -1,6 +1,6 @@
 # Project Euler
 
-Problems can be found at (https://projecteuler.net) or click on the problem link to get the sepcific problem.
+Problems can be found at (https://projecteuler.net) or click on the problem link to get the specific problem.
 
 Code thats been written for each problem will be
 
@@ -25,16 +25,18 @@ Interesting problems that are lend to programing practice where I use Python!
 15. [][lattice paths](https://projecteuler.net/problem=15)
 16. [x] [Power digit sum](https://projecteuler.net/problem=16) with Finished [Code](pe-16-powerdigitsum.py)
 17. [x] [Number letter counts](https://projecteuler.net/problem=17) with Finished [Code](pe-17-numberlettercounts.py)
-18. [x][maximum path sum i](https://projecteuler.net/problem=18) with Finished [Code](pe-18-maxpathsum.py)
+18. [x] [maximum path sum i](https://projecteuler.net/problem=18) with Finished [Code](pe-18-maxpathsum.py)
 19. [][counting sundays](https://projecteuler.net/problem=19)
 20. [][factorial digit sum](https://projecteuler.net/problem=20) IN PROGRESS [Code](pe-20-factorialdigitsum.py)
 21. [][amicable numbers](https://projecteuler.net/problem=21)
 22. [][names scores](https://projecteuler.net/problem=22) IN PROGRESS [Code](pe-22-namesscore.py)
 23. [][non-abundant sums](https://projecteuler.net/problem=23)
 24. [][lexicographic permutations](https://projecteuler.net/problem=24)
-25. [x][1000-digit fibonacci number](https://projecteuler.net/problem=25) with Finished [Code](pe-25-fibtothousanddigits.py)
+25. [x] [1000-digit fibonacci number](https://projecteuler.net/problem=25) with Finished [Code](pe-25-fibtothousanddigits.py)
 26. [][reciprocal cycles](https://projecteuler.net/problem=26)
 27. [][quadratic primes](https://projecteuler.net/problem=27)
 28. [][number spiral diagonals](https://projecteuler.net/problem=28) IN PROGRESS [Code](pe-28-numberspiraldiagonals.py)
 29. [][distinct powers](https://projecteuler.net/problem=29)
 30. [][digit fifth powers](https://projecteuler.net/problem=30)
+
+67. [][Maximum path sum II](https://projecteuler.net/problem=67) IN PROGRESS [Code](pe-67-Maximumpathsumii.py)
