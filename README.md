@@ -12,7 +12,7 @@ Interesting problems that are lend to programing practice where I use Python!
 
 | Number | Problem                                                                   | Status                                       | Code                                                       |
 | ------ | ------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
-| 1.     | [Multiples of 3](https://projecteuler.net/problem=1)                      | ![Complete](assets/icons8-checkmark.svgs=60) | N/A                                                        |
+| 1.     | [Multiples of 3](https://projecteuler.net/problem=1)                      | ![Complete](assets/icons8-checkmark-50.png) | N/A                                                        |
 | 2.     | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)              | ![Complete](assets/icons8-checkmark.svgs=60)                                     | N/A                                                        |
 | 4.     | [Largest Palindrome Product](https://projecteuler.net/problem=4)          | ![Complete](assets/icons8-checkmark.svgs=60)                                     | N/A                                                        |
 | 5.     | [Smallest Multiple](https://projecteuler.net/problem=5)                   | ![Complete](assets/icons8-checkmark.svgs=60)                                     | N/A                                                        |
