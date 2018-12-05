@@ -3,27 +3,17 @@
 def palindrome(number):
     
     palindrome = 0
-    large = 9009
-  
-    while True:
-        left = number+1
-        right= number+1
-        for i in range(left-10, left):
-            for j in range(right-10, right):
-                large = i * j
-                if str(large) == str(large)[::-1]:
-                    if large < palindrome:
-                        palindrome = large
-        
-        if palindrome > 0:
-            break
-        
-        if left == right:
-            left -= 9
-        if right > left:
-            right-=9
-        if left > right:
-            left -=9
+    large = 0
+    num = number + 1
+
+    for i in range(num):
+        for j in range(num):
+
+            large = i * j
+            
+            if str(large) == str(large)[::-1]:
+                if large > palindrome:
+                    palindrome = large
         
     return palindrome
 
