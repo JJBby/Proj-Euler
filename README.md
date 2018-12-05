@@ -1,6 +1,6 @@
-# Project Euler
-
 <a id="top"></a>
+
+# Project Euler
 
 Problems can be found at [Project Euler](https://projecteuler.net) or click on the problem below will link to that problem.
 
@@ -10,12 +10,13 @@ Problems can be found at [Project Euler](https://projecteuler.net) or click on t
 
 | #   | Problem                                                                   | Status                                          | Code                                                      |
 | --- | ------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
-| 1.  | [Multiples of 3](https://projecteuler.net/problem=1)                      | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
-| 2.  | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)              | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
-| 4.  | [Largest Palindrome Product](https://projecteuler.net/problem=4)          | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
-| 5.  | [Smallest Multiple](https://projecteuler.net/problem=5)                   | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
-| 6.  | [Sum Square Difference](https://projecteuler.net/problem=6)               | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
-| 8.  | [Maximum Path Sum I](https://projecteuler.net/problem=8)                  | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_08_largestproductinaseries.py)         |
+| 01. | [Multiples of 3](https://projecteuler.net/problem=1)                      | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_01_Multiplesof3and5.py)                |
+| 02. | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)              | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_02_EvenFibonaccinumbers.py)            |
+| 03. | [Largest Prime Factor](https://projecteuler.net/problem=3)                | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_03_Largestprimefactor.py)              |
+| 04. | [Largest Palindrome Product](https://projecteuler.net/problem=4)          | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
+| 05. | [Smallest Multiple](https://projecteuler.net/problem=5)                   | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
+| 06. | [Sum Square Difference](https://projecteuler.net/problem=6)               | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
+| 08. | [Maximum Path Sum I](https://projecteuler.net/problem=8)                  | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_08_largestproductinaseries.py)         |
 | 11. | [Largest Product in a Grid](https://projecteuler.net/problem=11)          | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](pe_11_largestprodofgrid.py)                        |
 | 12. | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | In Progress                                     | [Code](problems/pe_12_highlydivisibletriangularnumber.py) |
 | 13. | [Large Sum](https://projecteuler.net/problem=13)                          | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_13_largesum.py)                        |

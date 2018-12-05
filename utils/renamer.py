@@ -6,14 +6,14 @@ import os
     Commented out the rewrite line too.
 
 """
-os.chdir('/home/j/Desktop/ProjectEuler/problems12341234')
+os.chdir('/home/j/Videos/Laracast/Vim_Mastery')
 
 for f in os.listdir():
 
     f_name, f_ext = os.path.splitext(f)
     f_replace = f_name.replace('-', '_')
 
-    f_ext = '.py'
+    
     new_name = f'{f_replace}{f_ext}'
 
-    # os.rename(f, new_name)
+    os.rename(f, new_name)
