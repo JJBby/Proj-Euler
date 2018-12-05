@@ -2,7 +2,7 @@
 
 import re
 
-get_names = open('sample_names.txt', 'r')
+get_names = open('../assets/pe-22-sample_names.txt', 'r')
 names = get_names.read()
 get_names.close()
 
