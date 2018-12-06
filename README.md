@@ -16,6 +16,7 @@ Problems can be found at [Project Euler](https://projecteuler.net) or click on t
 | 04. | [Largest Palindrome Product](https://projecteuler.net/problem=4)          | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_04_Largestpalindromeproduct.py)        |
 | 05. | [Smallest Multiple](https://projecteuler.net/problem=5)                   | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
 | 06. | [Sum Square Difference](https://projecteuler.net/problem=6)               | ![ALT Complete](assets/icons8_checkmark_25.png) | N/A                                                       |
+| 07. | [10001st Prime](https://projecteuler.net/problem=)                      | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_07_10001prime.py)                |
 | 08. | [Maximum Path Sum I](https://projecteuler.net/problem=8)                  | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](problems/pe_08_largestproductinaseries.py)         |
 | 11. | [Largest Product in a Grid](https://projecteuler.net/problem=11)          | ![ALT Complete](assets/icons8_checkmark_25.png) | [Code](pe_11_largestprodofgrid.py)                        |
 | 12. | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | In Progress                                     | [Code](problems/pe_12_highlydivisibletriangularnumber.py) |

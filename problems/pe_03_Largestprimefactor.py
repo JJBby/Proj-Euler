@@ -1,5 +1,5 @@
-# # TODO
-# # The prime factors of 13195 are 5, 7, 13 and 29.
+# Complete
+# The prime factors of 13195 are 5, 7, 13 and 29.
 
 
 def full_prime(numb):
@@ -24,8 +24,8 @@ def full_prime(numb):
 
     return arrprime
 
-x = full_prime(100)
+x = full_prime(1005267823679)
 print(x)
 
 # 10,005,267,823,679,723
-# 10,05,267,823,679,723  
+# 100526782367972  
