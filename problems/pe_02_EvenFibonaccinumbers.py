@@ -16,4 +16,4 @@ while True:
     f2 = temp
 
 
-print(f'{f1}, {f2}, Answer = {count}')
+print(f'first fib number: {f1}, second : {f2}, Answer = {count}')
