@@ -9,5 +9,6 @@ def brute_force():
         if remainders == 0:
             break
         y += 2
+    return y
 
-    print(y)
+print(brute_force())
